@@ -1,0 +1,17 @@
+{
+    "AUTHENTICATION_EMPTY" : "AuthenticationType is empty. please choose PowerUser or ServicePrincipal in config.json",
+    "AUTHENTICATION_TYPE_ERROR" : "AuthenticationType is wrong. please choose PowerUser or ServicePrincipal in config.json",
+    "APP_ID_EMPTY" : "ApplicationId is empty. please register your application as Native app in https://dev.powerbi.com/apps and fill client Id in config.json",
+    "APP_ID_INVALID" : "ApplicationId must be a Guid object. please register your application as Native app in https://dev.powerbi.com/apps and fill application Id in config.json",
+    "EMPTY_WORKSPACE_ID" : "WorkspaceId is empty. Please select a group you own and fill its Id in config.json",
+    "WORKSPACE_ID_INVALID" : "WorkspaceId must be a Guid object. Please select a workspace you own and fill its Id in config.json",
+    "EMPTY_AUTHORITY_URL" : "AuthorityUrl is empty. Please fill valid AuthorityUrl under config.json",
+    "EMPTY_USERNAME" : "Username is empty. Please fill Power BI username in config.json",
+    "EMPTY_PASSWORD" : "Password is empty. Please fill password of Power BI username in config.json",
+    "APPLICATION_SECRET_EMPTY" : "ApplicationSecret is empty. Please fill Power BI ServicePrincipal applicationSecret in config.json",
+    "TENANT_ID_EMPTY" : "TenantId is empty. Please select a group you own and fill its Id in config.json",
+    "TENANT_ID_INVALID" : "TenantId must be a Guid object. Please select a workspace you own and fill its Id in config.json",
+    "INVALID_TOKEN" : "Invalid Token",
+    "TOKEN_NOT_PROVIDED" : "Token not provided",
+    "BODY_PARAMETERS_MISSING" : "Provide DatasetId and ReportId"
+}
